@@ -7,12 +7,7 @@ public class Main {
         bicycle.speed = 23;
         bicycle.cadence = 18;
 
-        printInfo(bicycle);
+        Bicycle.printInfo(bicycle);
     }
 
-    static void printInfo(Bicycle bicycle) {
-        System.out.println("----------Bicycle Info----------");
-        System.out.println("Cadence: " + bicycle.cadence);
-        System.out.println("Speed: " + bicycle.speed);
-    }
 }
