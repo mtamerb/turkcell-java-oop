@@ -7,7 +7,10 @@ public class Main {
         bicycle.speed = 23;
         bicycle.cadence = 18;
 
+        Bicycle.numberOfTheBicycles = 10;
+
         Bicycle.printInfo(bicycle);
+
     }
 
 }
