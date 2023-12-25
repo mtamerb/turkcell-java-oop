@@ -11,6 +11,11 @@ public class Square extends Shape{
         this.side = side;
     }
 
+    @Override
+    void calculateArea() {
+        System.out.println("Square Area: " + side * side);
+    }
+
     void printInfo(){
         System.out.println("Square info");
         System.out.println("color: " + getColor());

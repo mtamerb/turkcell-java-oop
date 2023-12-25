@@ -21,7 +21,12 @@ public class Rectangle extends Shape {
         this.height = height;
     }
 
-    void printInfo(){
+    @Override
+    void calculateArea() {
+        System.out.println("Rectangle Area: " + width * height);
+    }
+
+    void printInfo() {
         System.out.println("Rectangle info");
         System.out.println("color: " + getColor());
         System.out.println("pos x :" + getPositionX());

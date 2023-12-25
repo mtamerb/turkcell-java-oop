@@ -25,5 +25,22 @@ public class Main {
         rectangle.setHeight(5);
 
         rectangle.printInfo();
+
+        System.out.println("====================================");
+
+        Circle circle = new Circle();
+        circle.setColor("green");
+        circle.setPositionX(30);
+        circle.setPositionY(10);
+        circle.setRadius(5);
+
+        circle.printInfo();
+
+        System.out.println("====================================");
+        System.out.println("Area Info");
+        circle.calculateArea();
+        square.calculateArea();
+        rectangle.calculateArea();
+
     }
 }

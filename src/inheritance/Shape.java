@@ -6,6 +6,11 @@ public class Shape {
     private int positionX;
     private int positionY;
 
+
+    void calculateArea() {
+        System.out.println("Area:  doesn't calculated");
+    }
+
     public String getColor() {
         return color;
     }
