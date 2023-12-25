@@ -174,3 +174,7 @@ N
 src/access/modifiers/Main.java,1\d\1d42a61e32a9dffbf1293a6401ea32acd0e6a53a
 Q
 !src/access/modifiers/Student.java,1\7\17b6d0fe97990bfe6fbc03f5bf3ece10f86d87a5
+S
+#src/access/modifiers/pojo/Main.java,5\b\5bda490516562b4f0f766054fbf987034669bd38
+U
+%src/access/modifiers/pojo/Worker.java,b\7\b7dc4558ad0d0376c6df96d43ac520f6d973468b
