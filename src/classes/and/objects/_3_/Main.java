@@ -15,6 +15,12 @@ public class Main {
         gamer.reborn();
 
         System.out.println("after reborn health : " + gamer.health);
+
+        Gamer gamer2 = new Gamer();
+        System.out.println("number of the gamer: " + Gamer.numberOfTheGamer);
+
+        Gamer gamer3 = new Gamer();
+        System.out.println("number of the gamer: " + Gamer.numberOfTheGamer);
     }
 
 

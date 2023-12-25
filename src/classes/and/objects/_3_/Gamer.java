@@ -4,6 +4,12 @@ public class Gamer {
 
     int health = 100;
 
+    static int numberOfTheGamer = 0;
+
+    public Gamer() {
+        numberOfTheGamer++;
+    }
+
     void reborn() {
         health = 100;
     }
