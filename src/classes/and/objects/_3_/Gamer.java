@@ -13,6 +13,6 @@ public class Gamer {
     }
 
     static void printHealth(Gamer gamer) {
-        System.out.println("healht: " + gamer.health);
+        System.out.println("health: " + gamer.health);
     }
 }
