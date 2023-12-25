@@ -156,3 +156,7 @@ G.idea/sonarlint/issuestore/c/e/ce7799643a95553c6bee1d403d6cb738907a7f2c,6\5\65
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+U
+%src/classes/and/objects/_3_/Main.java,9\4\9483cc5da52b1ad3ffdd406869f556f69a3f7625
+V
+&src/classes/and/objects/_3_/Gamer.java,9\3\937ae7e390d240a239fb891f1acbfdbd6688c078
