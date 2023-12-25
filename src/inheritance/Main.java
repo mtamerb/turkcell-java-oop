@@ -13,9 +13,17 @@ public class Main {
         square.setPositionY(10);
         square.setSide(5);
 
-        System.out.println("color: " + square.getColor());
-        System.out.println("pos x :" + square.getPositionX());
-        System.out.println("pos y :" + square.getPositionY());
-        System.out.println("side :" + square.getSide());
+        square.printInfo();
+
+        System.out.println("====================================");
+
+        Rectangle rectangle = new Rectangle();
+        rectangle.setColor("blue");
+        rectangle.setPositionX(20);
+        rectangle.setPositionY(10);
+        rectangle.setWidth(10);
+        rectangle.setHeight(5);
+
+        rectangle.printInfo();
     }
 }
