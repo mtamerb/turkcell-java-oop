@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance._1_;
 
 public class Square extends Shape{
     private int side;
